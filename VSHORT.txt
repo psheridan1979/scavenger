@@ -1,0 +1,13 @@
+Symbol	Description
+AAIT	AC Asia Information Tech MSCI Ishares
+AAL	American Airlines Group Inc.
+AALCP	American Airlines Group Inc.
+AAME	Atlantic American Corp
+AAOI	Applied Optoelectronics Inc
+AAON	Aaon Inc
+AAPL	Apple Inc
+AAWW	Atlas Air Worldwide Holdings
+AAXJ	All Country Asia Ex Jpn Idx MSCI Ishares
+ABAX	Abaxis Inc
+ABCB	Ameris Bancorp
+ABCD	Cambium Learning Group

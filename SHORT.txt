@@ -1,0 +1,258 @@
+Symbol	Description
+AAIT	AC Asia Information Tech MSCI Ishares
+AAL	American Airlines Group Inc.
+AALCP	American Airlines Group Inc.
+AAME	Atlantic American Corp
+AAOI	Applied Optoelectronics Inc
+AAON	Aaon Inc
+AAPL	Apple Inc
+AAWW	Atlas Air Worldwide Holdings
+AAXJ	All Country Asia Ex Jpn Idx MSCI Ishares
+ABAX	Abaxis Inc
+ABCB	Ameris Bancorp
+ABCD	Cambium Learning Group
+ABCO	The Advisory Board Company
+ABFS	Arkansas Best Corp
+ABGB	Abengoa S.A.
+ABIO	Arca Biopharma
+ABMD	Abiomed
+ABTL	Autobytel Inc
+ACAD	Acadia Pharmaceuticals Inc
+ACAS	American Capital
+ACAT	Arctic Cat Inc
+ACCL	Accelrys Inc
+ACET	Aceto Corp
+ACFC	Atlantic Coast Federal Corp
+ACFN	Acorn Energy
+ACGL	Arch Capital Group Ltd
+ACHC	Acadia Healthcare Company Inc
+ACHN	Achillion Pharmaceuticals
+ACIW	Aci Worldwide
+ACLS	Axcelis Technologies
+ACNB	Acnb Corp
+ACOR	Acorda Therapeutics
+ACPW	Active Power
+ACRX	Acelrx Pharmaceuticals
+ACSF	American Capital Senior Floatin
+ACST	Acasti Pharma Inc
+ACTG	Acacia Research Corp
+ACTS	Actions Semiconductor Co.
+ACUR	Acura Pharmaceuticals
+ACWI	ACWI Index MSCI Ishares
+ACWX	ACWI Ex-US Index MSCI Ishares
+ACXM	Acxiom Corp
+ADAT	Authentidate Holding
+ADBE	Adobe Systems Incorporated
+ADEP	Adept Technology
+ADES	Advanced Emissions Solutions Inc
+ADHD	Alcobra Ltd
+ADI	Analog Devices
+ADMP	Adamis Pharmaceuticl
+ADNC	Audience Inc
+ADP	Automatic Data Processing
+ADRA	Asia 50 ADR Index Bldrs
+ADRD	Dev Mkts 100 ADR Index Bldrs
+ADRE	Emrg Mkts 50 ADR Index Bldrs
+ADRU	Europe 100 ADR Index Bldrs
+ADSK	Autodesk Inc
+ADTN	Adtran Inc
+ADUS	Addus Homecare Corp
+ADVS	Advent Software
+ADXS	Advaxis Inc
+ADXSW	Advaxis Inc
+AEGN	Aegoin Corp
+AEGR	Aegerion Pharmaceuticals
+AEHR	Aehr Test Systems
+AEIS	Advanced Energy Industries
+AEPI	AEP Industries Inc
+AERI	Aerie Pharmaceuticals Inc
+AETI	American Electric Technologies
+AEY	Addvantage Technologies Group
+AEZS	Aeterna Zentaris
+AFAM	Almost Family Inc
+AFCB	Athens Bancshares Corp
+AFFX	Affymetrix
+AFH	Atlas Financial Holdings Inc
+AFOP	Alliance Fiber Optic Products
+AFSI	Amtrust Financial Services
+AGEN	Agenus Inc
+AGII	Argo Group International Holdings Ltd
+AGIIL	Argo Group International Holdin
+AGIO	Agios Pharmaceuticals Inc
+AGNC	American Capital Agency
+AGNCP	American Capital
+AGND	Wisdomtree Barclays U.S. Aggreg
+AGYS	Agilysys Inc
+AGZD	Wisdomtree Barclays U.S. Aggreg
+AHGP	Alliance Holdings Gp L.P.
+AHPI	Allied Healthcare Products
+AIMC	Altra Holdings
+AINV	Apollo Investment Corp
+AIQ	Alliance Healthcare Services
+AIRM	Air Methods Corp
+AIRT	Air T Inc
+AIXG	Aixtron Se
+AKAM	Akamai Technologies
+AKER	Akers Biosciences
+AKRX	Akorn Inc
+ALCO	Alico Inc
+ALCS	Alco Stores Inc
+ALGN	Align Technology
+ALGT	Allegiant Travel Company
+ALIM	Alimera Sciences
+ALKS	Alkermes Plc
+ALLB	Alliance Bank
+ALLT	Allot Communications Ltd
+ALNY	Alnylam Pharmaceuticals
+ALOG	Analogic Corp
+ALOT	Astro-Med
+ALQA	Alliqua Inc
+ALSK	Alaska Communications Systems
+ALTI	Altair Nanotechnologies Inc
+ALTR	Altera Corp
+ALXA	Alexza Pharmaceuticals
+ALXN	Alexion Pharmaceuticals
+AMAG	Amag Pharmaceuticals
+AMAP	Autonavi Holdings
+AMAT	Applied Materials
+AMBA	Ambarella Inc
+AMBC	Ambac Financial Group Inc
+AMBCW	Ambac Financial Group Inc
+AMBI	Ambit Biosciences Corp
+AMBT	Ambient Corp
+AMCC	Applied Micro Circuits Corp
+AMCF	Andatee China Marine Fuel Services
+AMCN	Airmedia Group Inc
+AMCX	Amc Networks Inc
+AMDA	Amedica Corp
+AMED	Amedisys Inc
+AMGN	Amgen Inc
+AMIC	American Independence
+AMKR	Amkor Technology
+AMNB	American National Bankshares
+AMOT	Allied Motion Technologies
+AMOV	America Movil S.A.B. De C.V.
+AMRB	American River Bankshares
+AMRI	Albany Molecular Research
+AMRN	Amarin Corporation Plc
+AMRS	Amyris Inc
+AMSC	American Superconductor Corp
+AMSF	Amerisafe Inc
+AMSG	Amsurg Corp
+AMSWA	American Software
+AMWD	American Woodmark Corp
+AMZN	Amazon.Com Inc
+ANAC	Anacor Pharmaceuticals
+ANAD	Anadigics Inc
+ANAT	American National Insurance
+ANCB	Anchor Bancorp
+ANCI	American Caresource Holdings
+ANCX	Access National Corp
+ANDE	The Andersons
+ANEN	Anaren Inc
+ANGI	Angie's List Inc
+ANGO	Angiodynamics
+ANIK	Anika Therapeutics Inc
+ANIP	ANI Pharmaceuticals Inc
+ANSS	Ansys Inc
+ANTH	Anthera Pharmaceuticals
+AOSL	Alpha and Omega Semiconductor
+APAGF	Apco Oil and Gas International
+APEI	American Public Education
+APFC	American Pacific Corp
+APOG	Apogee Enterprises
+APOL	Apollo Group
+APPY	Aspenbio Pharma
+APRI	Apricus Biosciences Inc
+APSA	Alto Palermo S.A.
+APWC	Asia Pac Wire &Cable
+AQU	Aquasition Corp
+AQUUU	Aquasition Corp
+AQUUW	Aquasition Corp
+ARAY	Accuray Incorporated
+ARCC	Ares Capital Corp
+ARCI	Appliance Recycling Centers
+ARCP	American Realty Capital Propert
+ARCPP	American Realty Capital Propert
+ARCW	Arc Wireless Solutions
+ARDNA	Arden Group
+AREX	Approach Resources Inc
+ARGS	Argos Therapeutics Inc
+ARIA	Ariad Pharmaceuticals
+ARII	American Railcar Industries
+ARIS	Ari Network Svcs
+ARKR	Ark Restaurants
+ARLP	Alliance Resource Partners L.P.
+ARMH	Arm Holdings Plc
+ARNA	Arena Pharmaceuticals
+AROW	Arrow Financial Corp
+ARQL	Arqule Inc
+ARRS	Arris Group Inc
+ARRY	Array Biopharma Inc
+ARTC	Arthrocare Corp
+ARTNA	Artesian Resources Corp
+ARTW	Art'S-Way Manufacturing Co.
+ARTX	Arotech Corp
+ARUN	Aruba Networks
+ARWR	Arrowhead Research Corp
+ASBB	Asb Bancorp Inc
+ASBC	Associated Banc-Corp
+ASBCW	Associated Banc-Corp
+ASBI	Ameriana Bancorp
+ASCMA	Ascent Media Corp
+ASDR	Velocityshares Emerging Asia Dr
+ASEI	American Science and Engineering
+ASFI	Asta Funding
+ASMI	Asm International N.V.
+ASML	Asml Holding N.V.
+ASNA	Ascena Retail Group
+ASPS	Altisource Portfolio Solutions S.A.
+ASPX	Auspex Pharmaceuticals Inc.
+ASRV	Ameriserv Financial Inc
+ASRVP	Ameriserv Financial Inc
+ASTC	Astrotech Corp
+ASTE	Astec Industries
+ASTI	Ascent Solar Technologies
+ASTM	Aastrom Biosciences
+ASUR	Asure Software Inc
+ASYS	Amtech Systems
+ATAI	Ata Inc
+ATAX	America First Tax Exempt L.P.
+ATEA	Astea International
+ATEC	Alphatec Holdings
+ATHN	Athenahealth
+ATHX	Athersys
+ATLC	Atlanticus Holdings Corp
+ATLO	Ames National Corp
+ATMI	Atmi Inc
+ATML	Atmel Corp
+ATNI	Atlantic Tele-Network
+ATNY	Api Technologies
+ATOS	Atossa Genetics Inc
+ATRC	Atricure
+ATRI	Atrion Corp
+ATRM	Aetrium Inc
+ATRO	Astronics Corp
+ATRS	Antares Pharma
+ATSG	Air Transport Services Group Inc
+ATTU	Attunity Ltd
+ATVI	Activision Blizzard Inc
+AUBN	Auburn National Bancorporation
+AUDC	Audiocodes Ltd
+AUXL	Auxilium Pharmaceuticals
+AVAV	Aerovironment
+AVEO	Aveo Pharmaceuticals
+AVGO	Avago Technologies
+AVHI	Av Homes Inc
+AVID	Avid Technology
+AVNR	Avanir Pharmaceuticals Inc
+AVNW	Aviat Networks
+AWAY	Homeaway Inc
+AWRE	Aware Inc
+AXAS	Abraxas Petroleum Corp
+AXDX	Accelerate Diagnostics Inc
+AXFN	ACWI Ex-US Financials MSCI Ishares
+AXGN	Lectec Corp
+AXJS	AC Asia Ex Japan Smallcap MSCI Ishares
+AXTI	Axt Inc
+AZPN	Aspen Technology
